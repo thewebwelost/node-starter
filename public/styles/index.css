@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  font-size: xx-large;
+  color: whitesmoke;
+}
+
+img {
+  max-width: 300px;
+}
+
+a {
+  margin: 15px 0;
+  color: white;
+}
