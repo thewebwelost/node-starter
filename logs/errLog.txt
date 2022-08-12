@@ -49,3 +49,21 @@ SyntaxError: Unexpected token f in JSON at position 18
 
 29072022	19:04:48	id: b41a2bbc-1e07-4830-a589-eedf20c179a5
 SyntaxError: Unexpected token f in JSON at position 18
+
+11082022	19:32:56	id: 11f939b0-8567-4780-bdd7-e6955abb9e4d
+Error: Not allowed by CORS
+
+11082022	19:34:05	id: 93323a0d-8de8-40e2-ae3f-3406efa05f9a
+Error: Not allowed by CORS
+
+11082022	19:35:06	id: ea45ea9c-fe8e-4fd5-8aef-e95039edcd42
+Error: Not allowed by CORS
+
+11082022	19:39:03	id: 8a1c7b09-5fe9-4105-a52e-3d76c23bbd15
+Error: Not allowed by CORS
+
+12082022	12:56:15	id: 30141949-876f-44c2-846a-d3e2b642ca73
+SyntaxError: Unexpected token u in JSON at position 6
+
+12082022	12:56:37	id: 6ad9c580-c3ba-405b-a0b5-bedec8e4baf4
+SyntaxError: Unexpected token ' in JSON at position 6

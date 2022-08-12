@@ -2,11 +2,11 @@ const User = require('../model/User');
 const bcrypt = require('bcrypt');
 
 const handleNewUser = async (req, res) => {
-  const { user, pwd } = req.body;
+  const { user, email, pwd } = req.body;
   if (!user || !pwd)
     return res.status(400).json({ message: 'Name or password missing' });
 
-  const duplicate = await User.findOne({ username: user }).exec();
+  const duplicate = await User.findOne({ email }).exec();
   if (duplicate) return res.sendStatus(409); // Conflict
 
   try {
@@ -16,6 +16,7 @@ const handleNewUser = async (req, res) => {
     // create and store new user
     const newUser = await User.create({
       username: user,
+      email,
       pwd: hashedPwd,
     });
 

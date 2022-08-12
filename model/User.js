@@ -3,6 +3,7 @@ const Schema = mongoose.Schema;
 
 const userSchema = new Schema({
   username: { type: String, required: true },
+  email: { type: String, required: true },
   roles: {
     user: {
       type: Number,
@@ -12,7 +13,7 @@ const userSchema = new Schema({
     admin: Number,
   },
   pwd: { type: String, required: true },
-  refreshToken: String,
+  refreshToken: [String],
 });
 
 module.exports = mongoose.model('User', userSchema);

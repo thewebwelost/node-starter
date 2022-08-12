@@ -324,3 +324,225 @@ GET	undefined	/refresh
 
 29072022	19:28:52	id: 364d672d-334e-4a65-82b3-6d66e93dc18c
 GET	undefined	/refresh
+
+31072022	09:16:35	id: cd1e9255-a71a-4a01-b6de-e1bed114b98d
+POST	undefined	/auth
+
+31072022	09:16:49	id: b01939df-4746-4eb6-bb49-0a6abfcdba61
+GET	undefined	/dudes
+
+31072022	09:17:21	id: 543ae3f7-0e09-40a1-95a5-ac25cd31f577
+POST	undefined	/dudes
+
+31072022	09:17:25	id: a2f72877-b84d-4ac8-a84e-e04930b3ea70
+POST	undefined	/dudes
+
+31072022	09:17:32	id: 8df1f810-1632-43fe-87ef-e3dd82d0113b
+GET	undefined	/dudes
+
+31072022	09:18:03	id: 91fae0f6-9dda-4cc8-ac9f-bca413d4002b
+PUT	undefined	/dudes
+
+31072022	09:18:18	id: 66dcf75d-95c2-4032-9fb7-589a32ed5fed
+PUT	undefined	/dudes
+
+31072022	09:28:39	id: d2ce43d9-fced-4daa-848c-ae856b8722fb
+PUT	undefined	/dudes
+
+31072022	09:28:44	id: 0a6c2537-3caa-4793-af37-2317993103dc
+POST	undefined	/auth
+
+31072022	09:28:55	id: 0b359308-abae-4bbc-8c38-bfce4c442cba
+PUT	undefined	/dudes
+
+31072022	09:29:30	id: 4e7c06c4-1740-4d32-9f76-1d46a205fa53
+GET	undefined	/dudes/62e6ab1518c1205ee056edb1
+
+31072022	09:29:47	id: 2bdacdb9-1262-4460-8fde-bd6c019d11a3
+GET	undefined	/dudes/62e6ab1518c1205ee056edb1
+
+31072022	09:30:19	id: 42d6c37e-c5bf-4905-a0b0-1135b1981337
+DELETE	undefined	/dudes
+
+11082022	18:14:59	id: 9d0c5e5e-a659-4619-8202-2e2036cb909a
+GET	undefined	/
+
+11082022	18:14:59	id: a19f1342-f739-4fd6-9637-699fe800c322
+GET	undefined	/styles/index.css
+
+11082022	18:15:00	id: b43b26ce-0ed5-4622-9d3b-c0e366794859
+GET	undefined	/img/duck.jpg
+
+11082022	18:15:00	id: 6a87c3e6-0fd1-4b32-b222-198429a82eed
+GET	undefined	/favicon.ico
+
+11082022	18:15:02	id: 5075a217-a1fe-4f5c-82fa-b4926357bc9b
+GET	undefined	/dudes
+
+11082022	18:15:02	id: 57681af0-8937-4799-99cd-226b4bbb194b
+GET	undefined	/favicon.ico
+
+11082022	18:15:04	id: 22bb50bb-9f34-4159-b354-0202fe99be0c
+GET	undefined	/favicon.ico
+
+11082022	19:32:56	id: c1aab61b-a88b-4e68-9cbf-2393b54c4853
+OPTIONS	http://localhost:3000	/
+
+11082022	19:33:51	id: 5578e6b7-a798-4b94-862b-72a9bfc8bcff
+GET	undefined	/
+
+11082022	19:33:51	id: 80bc32ed-ac77-457e-82f8-75c8487bf01d
+GET	undefined	/styles/index.css
+
+11082022	19:33:51	id: 160ae979-48d8-4419-ae25-8840805d6bd0
+GET	undefined	/img/duck.jpg
+
+11082022	19:33:51	id: 562aa888-0202-4bf7-908d-994bf414e81f
+GET	undefined	/favicon.ico
+
+11082022	19:34:05	id: b020fccc-f499-4ee8-8d9b-b9ba14bf44b3
+OPTIONS	http://localhost:3000	/auth
+
+11082022	19:35:06	id: 23dc9f8e-4a5c-4443-8cc4-4ec88a432bd5
+OPTIONS	http://localhost:3000	/auth
+
+11082022	19:39:03	id: a0764d83-b91c-4917-b12b-1c9a8060c109
+OPTIONS	http://localhost:3000	/auth
+
+11082022	19:39:46	id: 12d524e9-38af-4108-b613-ab6c106fb022
+OPTIONS	http://localhost:3000	/auth
+
+11082022	19:39:46	id: 56139b56-87df-4502-a67c-329241ae3195
+POST	http://localhost:3000	/auth
+
+11082022	19:45:26	id: 6a00f701-ec31-4228-9d3b-58c04eb67140
+OPTIONS	http://localhost:3000	/auth
+
+11082022	19:45:26	id: d1c201d6-0914-4e58-9336-e9b735c783ff
+POST	http://localhost:3000	/auth
+
+11082022	19:47:39	id: a2de3b36-bada-48df-81e0-cf9b30d89313
+OPTIONS	http://localhost:3000	/auth
+
+11082022	19:47:39	id: e32c6fde-2a52-4e35-91ff-f5b26e232523
+POST	http://localhost:3000	/auth
+
+11082022	19:48:39	id: a847347a-6021-4910-8560-447b1a2bbbb5
+OPTIONS	http://localhost:3000	/auth
+
+11082022	19:48:39	id: 784c8cc9-d0ec-4192-ab0e-72d4dd9a0331
+POST	http://localhost:3000	/auth
+
+12082022	12:50:54	id: 0f069790-9d27-4013-86cc-22076d372721
+OPTIONS	http://localhost:3000	/signup
+
+12082022	12:50:54	id: 8b67cc1d-fd99-4e35-b457-3369d569228c
+POST	http://localhost:3000	/signup
+
+12082022	12:51:31	id: 4ef8bebc-1e00-4388-91af-fb29ae6c31ed
+OPTIONS	http://localhost:3000	/register
+
+12082022	12:51:31	id: d8670ead-bce6-48fb-a264-85adacdaf805
+POST	http://localhost:3000	/register
+
+12082022	12:51:31	id: f3223e02-bfb9-4b98-aca1-6446af427b79
+OPTIONS	http://localhost:3000	/register
+
+12082022	12:51:31	id: c6ca09ff-2a4d-4149-a235-0631a3fa2d9d
+POST	http://localhost:3000	/register
+
+12082022	12:53:24	id: 8c3ad0b3-025c-4e78-a4b5-3563899a6e83
+OPTIONS	http://localhost:3000	/register
+
+12082022	12:53:24	id: 936fc434-c536-46a6-9dd5-3dc91fe9d996
+POST	http://localhost:3000	/register
+
+12082022	12:54:47	id: 79a8f72f-b458-4ecc-bf4c-26247d456491
+OPTIONS	http://localhost:3000	/register
+
+12082022	12:54:47	id: 68c9bdf9-6dd1-43db-8b40-dc64f9a6acd1
+POST	http://localhost:3000	/register
+
+12082022	12:55:13	id: d6db517c-9746-4060-82d5-e5defa4b105c
+GET	undefined	/login
+
+12082022	12:55:13	id: eaf1ec3a-111b-429d-b76a-936e63108185
+GET	undefined	/favicon.ico
+
+12082022	12:55:21	id: 3d213eda-9a8d-4cc4-aa57-a70f7489b1a6
+GET	undefined	/register
+
+12082022	12:55:21	id: beb25b3a-5ab5-416c-8c1b-48b5690459ff
+GET	undefined	/favicon.ico
+
+12082022	12:55:24	id: 7e92147a-44bd-4f19-b127-51a97850fa80
+GET	undefined	/register
+
+12082022	12:55:24	id: fbd7e1e2-1f0f-4da7-8c50-fbbddf100192
+GET	undefined	/favicon.ico
+
+12082022	12:55:25	id: bbf9c1d8-08c6-4c8d-9629-00d8912eee7f
+GET	undefined	/login
+
+12082022	12:55:25	id: 9745a0fe-f309-48c0-84ac-5d28043abe76
+GET	undefined	/favicon.ico
+
+12082022	12:56:15	id: 5a19d165-4034-40cc-96f7-1aaab2a5bd7e
+POST	undefined	/register
+
+12082022	12:56:37	id: e72d8ce6-4b41-4037-9646-8dcbfca923f3
+POST	undefined	/register
+
+12082022	12:57:01	id: b88b551e-9076-4f42-846b-6a6cf1bc17f8
+POST	undefined	/register
+
+12082022	12:57:27	id: 4a5b8b61-d27e-4267-808b-1de4c700fcd6
+POST	undefined	/register
+
+12082022	12:59:01	id: fe2e0abd-8760-40f5-a7b9-43ae1200f767
+OPTIONS	http://localhost:3000	/register
+
+12082022	12:59:01	id: 3216b2fe-63df-4499-bd86-57cad7f7b38e
+POST	http://localhost:3000	/register
+
+12082022	13:00:22	id: 6c5ef75c-26db-463b-ad31-1e8b024aff85
+OPTIONS	http://localhost:3000	/auth
+
+12082022	13:00:22	id: a0998d62-a4a9-475c-9a9e-affad1c87826
+POST	http://localhost:3000	/auth
+
+12082022	13:06:04	id: a92ba9fa-e3ea-48c9-b565-30b9fd75c80f
+OPTIONS	http://localhost:3000	/auth
+
+12082022	13:06:04	id: 7234a560-848a-4866-a75e-8fdefdc7973f
+POST	http://localhost:3000	/auth
+
+12082022	13:06:28	id: dc838ad3-7842-4366-9ca7-8d397a8672a1
+POST	undefined	/auth
+
+12082022	13:06:34	id: e03f80c6-78d2-4182-93e3-fd162b08c303
+OPTIONS	http://localhost:3000	/auth
+
+12082022	13:06:34	id: e60118af-7f20-4d35-bda4-1d5cdb46910c
+POST	http://localhost:3000	/auth
+
+12082022	13:07:44	id: f34b8ad7-dfdd-44f5-ad95-03eb2a06c3f8
+OPTIONS	http://localhost:3000	/auth
+
+12082022	13:07:44	id: 7f35925a-df7d-4c58-832f-3d7f23be514f
+POST	http://localhost:3000	/auth
+
+12082022	13:10:31	id: aac88552-f070-440c-9a9e-f5b565b8cf09
+POST	undefined	/auth
+
+12082022	13:11:16	id: fa607849-4084-4149-8dc1-02bc6a17421d
+OPTIONS	http://localhost:3000	/auth
+
+12082022	13:11:16	id: 8763401f-0ba4-4f12-a255-7cfd064e5f76
+POST	http://localhost:3000	/auth
+
+12082022	13:11:50	id: 0bf5190b-21ae-4595-b83d-4c57aaf73916
+OPTIONS	http://localhost:3000	/auth
+
+12082022	13:11:50	id: 0d4675ef-b9dd-457a-ae97-1ecacea69d0d
+POST	http://localhost:3000	/auth

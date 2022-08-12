@@ -34,17 +34,11 @@ const updateDude = async (req, res) => {
   }
 
   try {
-    const myDude = await Dude.findByIdAndUpdate(
-      id,
-      {
-        firstname,
-        lastname,
-        copy,
-      },
-      {},
-      (err, data) =>
-        err ? console.log(err) : console.log('Updated User : ', data)
-    );
+    const myDude = await Dude.findByIdAndUpdate(id, {
+      firstname,
+      lastname,
+      copy,
+    });
     res.status(201).json(myDude);
   } catch (err) {
     console.error(err);
